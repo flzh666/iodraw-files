@@ -7,7 +7,7 @@
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-29" value="串口接收原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371" y="540" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-30" value="扫描字符串函数&#xa;%f,%f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-30" value="扫描字符串函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="379" y="639" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-31" value="数据解析校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
