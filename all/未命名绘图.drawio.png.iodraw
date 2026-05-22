@@ -37,7 +37,7 @@
           <mxGeometry x="209" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-10" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="279" y="868" width="178" height="178" as="geometry" />
+          <mxGeometry x="340" y="868" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-11" value="维持稳定状态&#xa;持续监控与PID微调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="332" y="1119" width="195" height="66" as="geometry" />
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.182;entryY=-0.003;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-10" target="fKKoT-ejZeNIGT4Cj1Q6-11">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.496;entryY=0.071;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-10" target="fKKoT-ejZeNIGT4Cj1Q6-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-24" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=0.88;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-11" target="fKKoT-ejZeNIGT4Cj1Q6-3">
