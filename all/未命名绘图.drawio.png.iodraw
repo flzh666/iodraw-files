@@ -16,6 +16,11 @@
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-4" value="数据协议封装并上传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="185" y="336" width="204" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-5" target="fKKoT-ejZeNIGT4Cj1Q6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="13.5" y="458.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-5" value="LabVIEW上位机接收解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="434" width="233" height="49" as="geometry" />
         </mxCell>
