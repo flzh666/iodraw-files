@@ -40,7 +40,7 @@
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-40" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="516" y="1088" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-41" value="写入测量文件模块&#xa;.lvm/.csv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-41" value="写入测量文件模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="623" y="1186" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-42" value="数据记录触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-43" value="导出图像调用节点&#xa;Export Image" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="1302" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-44" value="保存高清晰度图表图片&#xa;.png/.jpg" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-44" value="保存高清晰度图表图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="1418" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-45" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
