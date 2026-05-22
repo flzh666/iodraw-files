@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGC8DiwoVrL0li-VhigJ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="RGC8DiwoVrL0li-VhigJ-8" target="RGC8DiwoVrL0li-VhigJ-9">
+        <mxCell id="RGC8DiwoVrL0li-VhigJ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGC8DiwoVrL0li-VhigJ-8" target="RGC8DiwoVrL0li-VhigJ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="146" y="818" />
