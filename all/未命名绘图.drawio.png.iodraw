@@ -66,11 +66,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-17" value="同步" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.525;entryY=0.026;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-5" target="fKKoT-ejZeNIGT4Cj1Q6-7">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-17" value="同步" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=0.522;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-5" target="fKKoT-ejZeNIGT4Cj1Q6-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="436" y="458" />
             </Array>
+            <mxPoint x="437" y="548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0.01;rounded=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-6" target="fKKoT-ejZeNIGT4Cj1Q6-8">
