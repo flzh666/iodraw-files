@@ -64,11 +64,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-17" value="同步" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=0.522;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-5" target="fKKoT-ejZeNIGT4Cj1Q6-7">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-17" value="同步" style="curved=0;startArrow=none;endArrow=block;rounded=0;entryX=0.522;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fKKoT-ejZeNIGT4Cj1Q6-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="437" y="458" />
             </Array>
+            <mxPoint x="287" y="519" as="sourcePoint" />
             <mxPoint x="437" y="548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -119,12 +120,6 @@
               <mxPoint x="671" y="311" />
             </Array>
             <mxPoint x="671" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="186" y="530" as="sourcePoint" />
-            <mxPoint x="236" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
