@@ -82,12 +82,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGC8DiwoVrL0li-VhigJ-20" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.821;entryY=1.037;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGC8DiwoVrL0li-VhigJ-9" target="RGC8DiwoVrL0li-VhigJ-3">
+        <mxCell id="RGC8DiwoVrL0li-VhigJ-20" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.821;entryY=1.037;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGC8DiwoVrL0li-VhigJ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="308" y="930" />
-              <mxPoint x="308" y="308" />
+              <mxPoint x="308" y="928" />
+              <mxPoint x="308" y="306" />
             </Array>
+            <mxPoint x="273" y="924.5" as="sourcePoint" />
+            <mxPoint x="307.89200000000005" y="283.442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
