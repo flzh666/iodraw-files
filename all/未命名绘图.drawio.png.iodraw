@@ -34,7 +34,7 @@
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-38" value="湿度实时波形图表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="1195" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-39" value="获取系统时间戳&#xa;日期/时间 秒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-39" value="获取系统时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="817" y="972" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-40" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
