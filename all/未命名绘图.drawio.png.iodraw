@@ -4,6 +4,73 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-1" value="上位机&#xa;LabVIEW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="92" y="167" width="122" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-2" value="串口通信模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="292" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-3" value="温湿度传感器&#xa;采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="283" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-4" value="STM32系统板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="179" y="399" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-5" value="继电器驱动控制模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="154" y="498" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-6" value="加热装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="596" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-7" value="制冷装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="596" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-8" value="加湿装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="596" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-9" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-1" target="oN5nJQJhPDckSP4Pjg69-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-10" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-2" target="oN5nJQJhPDckSP4Pjg69-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="153" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-3" target="oN5nJQJhPDckSP4Pjg69-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="359" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-4" target="oN5nJQJhPDckSP4Pjg69-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-5" target="oN5nJQJhPDckSP4Pjg69-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-5" target="oN5nJQJhPDckSP4Pjg69-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oN5nJQJhPDckSP4Pjg69-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oN5nJQJhPDckSP4Pjg69-5" target="oN5nJQJhPDckSP4Pjg69-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
