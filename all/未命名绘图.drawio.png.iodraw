@@ -14,46 +14,46 @@
           <mxGeometry x="393" y="755" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-32" value="温度浮点数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="70" y="980" width="140" height="49" as="geometry" />
+          <mxGeometry x="70" y="974" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-33" value="湿度浮点数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="413" y="980" width="140" height="49" as="geometry" />
+          <mxGeometry x="413" y="974" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-34" value="错误处理/丢弃" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="603" y="980" width="164" height="49" as="geometry" />
+          <mxGeometry x="603" y="974" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-35" value="当前温度数值显示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="36" y="1100" width="188" height="49" as="geometry" />
+          <mxGeometry x="36" y="1094" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-36" value="当前湿度数值显示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1100" width="188" height="49" as="geometry" />
+          <mxGeometry x="274" y="1094" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-37" value="温度实时波形图表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="36" y="1207" width="188" height="49" as="geometry" />
+          <mxGeometry x="36" y="1201" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-38" value="湿度实时波形图表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1207" width="188" height="49" as="geometry" />
+          <mxGeometry x="274" y="1201" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-39" value="获取系统时间戳" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="817" y="972" width="172" height="66" as="geometry" />
+          <mxGeometry x="817" y="966" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-40" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="516" y="1100" width="172" height="49" as="geometry" />
+          <mxGeometry x="516" y="1094" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-41" value="写入测量文件模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="623" y="1198" width="188" height="66" as="geometry" />
+          <mxGeometry x="623" y="1192" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-42" value="数据记录触发信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="738" y="1100" width="188" height="49" as="geometry" />
+          <mxGeometry x="738" y="1094" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-43" value="导出图像调用节点" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1314" width="188" height="66" as="geometry" />
+          <mxGeometry x="274" y="1308" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-44" value="保存高清晰度图表图片" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="258" y="1430" width="220" height="66" as="geometry" />
+          <mxGeometry x="258" y="1424" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-45" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="623" y="1322.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="623" y="1316.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-29" target="fKKoT-ejZeNIGT4Cj1Q6-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
