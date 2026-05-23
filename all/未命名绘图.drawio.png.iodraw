@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kixRXVAnap17-b8DhN_n">
-    <mxGraphModel dx="1207" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,37 +23,37 @@
           <mxGeometry x="603" y="980" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-35" value="当前温度数值显示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="36" y="1102" width="188" height="49" as="geometry" />
+          <mxGeometry x="36" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-36" value="当前湿度数值显示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1102" width="188" height="49" as="geometry" />
+          <mxGeometry x="274" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-37" value="温度实时波形图表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="36" y="1209" width="188" height="49" as="geometry" />
+          <mxGeometry x="36" y="1207" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-38" value="湿度实时波形图表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1209" width="188" height="49" as="geometry" />
+          <mxGeometry x="274" y="1207" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-39" value="获取系统时间戳" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="817" y="972" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-40" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="516" y="1102" width="172" height="49" as="geometry" />
+          <mxGeometry x="516" y="1100" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-41" value="写入测量文件模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="623" y="1200" width="188" height="66" as="geometry" />
+          <mxGeometry x="623" y="1198" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-42" value="数据记录触发信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="738" y="1102" width="188" height="49" as="geometry" />
+          <mxGeometry x="738" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-43" value="导出图像调用节点" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1316" width="188" height="66" as="geometry" />
+          <mxGeometry x="274" y="1314" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-44" value="保存高清晰度图表图片" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="258" y="1432" width="220" height="66" as="geometry" />
+          <mxGeometry x="258" y="1430" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-45" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="623" y="1324.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="623" y="1322.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fKKoT-ejZeNIGT4Cj1Q6-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="fKKoT-ejZeNIGT4Cj1Q6-29" target="fKKoT-ejZeNIGT4Cj1Q6-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
