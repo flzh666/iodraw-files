@@ -26,10 +26,10 @@
           <mxGeometry x="314" y="564" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-8" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="178" y="671" width="217" height="49" as="geometry" />
+          <mxGeometry x="177" y="671" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-9" value="驱动执行模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="209" y="770" width="156" height="49" as="geometry" />
+          <mxGeometry x="208" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-10" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="279" y="868" width="178" height="178" as="geometry" />
