@@ -7,9 +7,6 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-1" value="SHT30数字温湿度传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="1598" width="232" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-2" value="I2C总线通信" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="132" y="1697" width="116" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-3" value="STM32微控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105" y="1795" width="169" height="49" as="geometry" />
         </mxCell>
@@ -22,14 +19,16 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-7" value="前面板实时显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="2202" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-1" target="crwiBLhhYkW7GnEuG7B8-2">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="190" y="1697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-2" target="crwiBLhhYkW7GnEuG7B8-3">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="crwiBLhhYkW7GnEuG7B8-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="190" y="1746" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-3" target="crwiBLhhYkW7GnEuG7B8-4">
