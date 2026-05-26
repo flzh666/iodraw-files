@@ -19,7 +19,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-65" value="LabVIEW上位机接收解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="208" y="1566" width="233" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-66" value="实时显示温湿度曲线/仪表盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-66" value="实时显示温湿度曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="58" y="1687" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-67" value="同步写入Excel/测量文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-66" target="crwiBLhhYkW7GnEuG7B8-68">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-66" target="crwiBLhhYkW7GnEuG7B8-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-68" target="crwiBLhhYkW7GnEuG7B8-69">
