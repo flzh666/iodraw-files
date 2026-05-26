@@ -19,7 +19,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-5" value="USART串口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="121" y="1992" width="137" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-6" value="VISA串口通信模块&#xa;实时接收数据流" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-6" value="VISA串口通信模块&#xa;实时接收数据流" style="rhombus;strokeWidth=2;whiteSpace=wrap;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="62" y="2091" width="256" height="256" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-7" value="前面板实时显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -54,9 +54,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="2214" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
