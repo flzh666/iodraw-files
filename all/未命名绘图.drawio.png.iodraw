@@ -31,10 +31,10 @@
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-34" value="执行 PID 算法计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="1004" width="189" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-35" value="执行机构动作&#xa;加热/制冷/加湿/除湿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-35" value="执行机构动作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="181" y="1121" width="213" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-36" value="更新 OLED 动态显示&#xa;显示当前值与目标值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-36" value="更新 OLED 动态显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="186" y="1237" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-37" value="串口发送数据至 LabVIEW&#xa;上传当前状态用于上位机显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
