@@ -54,7 +54,7 @@
             <mxPoint x="190" y="2347" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-16" value="VISA串口通信模块&lt;div&gt;实时接收数据流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="2094" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
