@@ -19,16 +19,15 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-7" value="前面板实时显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="2202" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-1" target="crwiBLhhYkW7GnEuG7B8-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="190" y="1697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="crwiBLhhYkW7GnEuG7B8-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="190" y="1746" as="sourcePoint" />
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-8">
+          <mxGeometry x="-0.1704" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-3" target="crwiBLhhYkW7GnEuG7B8-4">
