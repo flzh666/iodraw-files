@@ -40,13 +40,13 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-36" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="1703" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-37" value="写入测量文件模块&#xa;.lvm/.csv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-37" value="写入测量文件模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="607" y="1801" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-38" value="数据记录触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="722" y="1703" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-39" value="导出图像调用节点&#xa;Export Image" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-39" value="导出图像调用节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="1917" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-40" target="crwiBLhhYkW7GnEuG7B8-39">
@@ -56,7 +56,7 @@
           <mxGeometry x="242" y="2033" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-41" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1810" width="188" height="49" as="geometry" />
+          <mxGeometry x="607" y="1934" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-25" target="crwiBLhhYkW7GnEuG7B8-26">
           <mxGeometry relative="1" as="geometry" />
