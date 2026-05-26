@@ -7,7 +7,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-61" value="系统启动" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="588" y="1152" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-62" value="初始化硬件设备与串口通信&#xa;VISA配置/STM32外设" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-62" value="初始化硬件设备与串口通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="506" y="1236" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-63" value="读取温湿度数据&#xa;SHT30传感器采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
