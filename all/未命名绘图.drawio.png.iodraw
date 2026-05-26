@@ -49,7 +49,10 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-39" value="导出图像调用节点&#xa;Export Image" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="1917" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-40" value="保存高清晰度图表图片&#xa;.png/.jpg" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-40" target="crwiBLhhYkW7GnEuG7B8-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-40" value="保存高清晰度图表图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="2033" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-41" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
