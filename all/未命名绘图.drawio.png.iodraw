@@ -22,7 +22,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-66" value="实时显示温湿度曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="58" y="1687" width="244" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-67" value="同步写入Excel/测量文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-67" value="同步写入Excel" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="1696" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-68" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
