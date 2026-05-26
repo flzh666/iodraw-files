@@ -26,10 +26,10 @@
           <mxGeometry x="314" y="564" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-8" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105" y="671" width="217" height="49" as="geometry" />
+          <mxGeometry x="33.5" y="677" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-9" value="驱动执行模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="136" y="770" width="156" height="49" as="geometry" />
+          <mxGeometry x="64.5" y="776" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-10" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="279" y="868" width="178" height="178" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-17" value="同步" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-5" target="WgGAHtW6KSRGAsgGfl3w-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0.01;rounded=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-6" target="WgGAHtW6KSRGAsgGfl3w-8">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-6" target="WgGAHtW6KSRGAsgGfl3w-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-8" target="WgGAHtW6KSRGAsgGfl3w-9">
