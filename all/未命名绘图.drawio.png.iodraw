@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kixRXVAnap17-b8DhN_n">
-    <mxGraphModel dx="374" dy="-911" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="-627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,6 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-4" value="按既定通信协议封装数据" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="87" y="1894" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-5" value="USART串口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="1992" width="137" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-7" value="前面板实时显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="2202" width="172" height="49" as="geometry" />
         </mxCell>
@@ -25,7 +22,7 @@
             <mxPoint x="190" y="1697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-8">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-17" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;I2C总线通信&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-8">
           <mxGeometry x="-0.1704" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -35,14 +32,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-4" target="crwiBLhhYkW7GnEuG7B8-5">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="189.5" y="1992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-5">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="189.5" y="2041" as="sourcePoint" />
             <mxPoint x="190" y="2091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
