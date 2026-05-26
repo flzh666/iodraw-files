@@ -8,13 +8,13 @@
           <mxGeometry x="74" y="1598" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-3" value="STM32微控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="106" y="1760" width="169" height="49" as="geometry" />
+          <mxGeometry x="106" y="1740" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-4" value="按既定通信协议封装数据" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="88" y="1859" width="206" height="49" as="geometry" />
+          <mxGeometry x="88" y="1839" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-7" value="前面板实时显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="104.5" y="2100" width="172" height="49" as="geometry" />
+          <mxGeometry x="104.5" y="2080" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-1" target="crwiBLhhYkW7GnEuG7B8-3">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-4" target="crwiBLhhYkW7GnEuG7B8-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="190.5" y="1957" as="targetPoint" />
+            <mxPoint x="190.5" y="1937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-18" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;USART串口&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-11">
@@ -46,11 +46,11 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="crwiBLhhYkW7GnEuG7B8-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="190.5" y="2050" as="sourcePoint" />
+            <mxPoint x="190.5" y="2030" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-16" value="VISA串口通信模块&lt;div&gt;实时接收数据流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118.5" y="1990" width="145" height="60" as="geometry" />
+          <mxGeometry x="118.5" y="1970" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
