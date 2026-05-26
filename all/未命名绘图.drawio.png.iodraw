@@ -68,8 +68,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-22" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-10" target="WgGAHtW6KSRGAsgGfl3w-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-22" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481.0000000000002" y="1037" as="sourcePoint" />
+            <mxPoint x="617.9999999999998" y="366" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-10" target="WgGAHtW6KSRGAsgGfl3w-11">
           <mxGeometry relative="1" as="geometry" />
