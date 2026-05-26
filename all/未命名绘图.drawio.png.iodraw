@@ -70,8 +70,12 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-83" value="是" style="curved=1;startArrow=none;endArrow=block;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-70" target="crwiBLhhYkW7GnEuG7B8-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.74;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-71" target="crwiBLhhYkW7GnEuG7B8-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-84" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.74;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-71" target="crwiBLhhYkW7GnEuG7B8-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="2256" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
