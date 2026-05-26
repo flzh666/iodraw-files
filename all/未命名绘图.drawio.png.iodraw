@@ -75,7 +75,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-24" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.07;entryX=0.74;entryY=1;rounded=0;" edge="1" parent="1" source="WgGAHtW6KSRGAsgGfl3w-11" target="WgGAHtW6KSRGAsgGfl3w-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="1124" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
