@@ -32,7 +32,7 @@
           <mxGeometry x="103" y="1902" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-70" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="317" y="2000" width="178" height="178" as="geometry" />
+          <mxGeometry x="263" y="2001" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-71" value="维持稳定状态&#xa;持续监控与PID微调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="2251" width="195" height="66" as="geometry" />
