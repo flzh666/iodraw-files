@@ -28,7 +28,7 @@
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-33" value="计算误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174" y="888" width="229" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-34" value="执行 PID 算法计算&#xa;输出 PWM/控制量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-34" value="执行 PID 算法计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="1004" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-35" value="执行机构动作&#xa;加热/制冷/加湿/除湿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
