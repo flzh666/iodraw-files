@@ -7,7 +7,7 @@
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-26" value="系统上电" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="20" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-27" value="系统初始化&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-27" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="104" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-28" value="进入主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
