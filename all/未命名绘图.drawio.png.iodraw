@@ -38,9 +38,14 @@
             <mxPoint x="190.5" y="1937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-22" value="&lt;p style=&quot;line-height: 118%;&quot;&gt;&lt;span style=&quot;white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;USART串口&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-11">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-22" value="&lt;p style=&quot;text-align: justify; line-height: 118%;&quot;&gt;&lt;span style=&quot;white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;USART串口&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-11">
           <mxGeometry x="-0.0854" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crwiBLhhYkW7GnEuG7B8-11">
+          <mxGeometry x="0.0854" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="crwiBLhhYkW7GnEuG7B8-7">
