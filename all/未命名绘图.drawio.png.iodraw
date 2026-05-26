@@ -52,13 +52,10 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-77" value="同步" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67">
+        <mxCell id="crwiBLhhYkW7GnEuG7B8-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-66" target="crwiBLhhYkW7GnEuG7B8-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-79" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.83;entryY=0.01;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-67" target="crwiBLhhYkW7GnEuG7B8-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-68" target="crwiBLhhYkW7GnEuG7B8-69">
