@@ -37,7 +37,7 @@
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-36" value="更新 OLED 动态显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="186" y="1237" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WgGAHtW6KSRGAsgGfl3w-37" value="串口发送数据至 LabVIEW&#xa;上传当前状态用于上位机显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WgGAHtW6KSRGAsgGfl3w-37" value="串口发送数据至 LabVIEW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="162" y="1353" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="WgGAHtW6KSRGAsgGfl3w-38" value="系统延时 Delay&#xa;维持固定的控制周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
