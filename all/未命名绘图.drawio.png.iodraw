@@ -26,7 +26,7 @@
           <mxGeometry x="352" y="1696" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-68" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="72" y="1803" width="217" height="49" as="geometry" />
+          <mxGeometry x="72" y="1803" width="229" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-69" value="STM32驱动执行模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="103" y="1902" width="156" height="49" as="geometry" />
