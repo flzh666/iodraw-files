@@ -29,7 +29,7 @@
           <mxGeometry x="64" y="1800" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-69" value="STM32驱动执行模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="64" y="1902" width="236" height="50" as="geometry" />
+          <mxGeometry x="64" y="1902" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-70" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="263" y="2001" width="178" height="178" as="geometry" />
@@ -52,13 +52,6 @@
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-64" target="crwiBLhhYkW7GnEuG7B8-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-76" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="1591" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-77" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67" edge="1">
           <mxGeometry relative="1" as="geometry">
