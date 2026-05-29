@@ -35,7 +35,7 @@
           <mxGeometry x="236" y="2001" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-71" value="维持稳定状态&#xa;持续监控与PID微调" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="255" y="2251" width="195" height="66" as="geometry" />
+          <mxGeometry x="239" y="2251" width="195" height="66" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-61" target="crwiBLhhYkW7GnEuG7B8-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
