@@ -26,7 +26,7 @@
           <mxGeometry x="207" y="1662" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-67" value="同步写入Excel" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-99" y="1574" width="234" height="49" as="geometry" />
+          <mxGeometry x="-55" y="1538" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-68" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="207" y="1766" width="235" height="50" as="geometry" />
