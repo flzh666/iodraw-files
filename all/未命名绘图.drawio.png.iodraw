@@ -19,6 +19,9 @@
         <mxCell id="MOCJlimli8YiaQhCdN6_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MOCJlimli8YiaQhCdN6_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="crwiBLhhYkW7GnEuG7B8-65" value="LabVIEW上位机接收解析" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="1566" width="233" height="49" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
         <mxCell id="crwiBLhhYkW7GnEuG7B8-74" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-63" target="crwiBLhhYkW7GnEuG7B8-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="245" y="1385" />
+              <mxPoint x="247" y="1385" />
             </Array>
           </mxGeometry>
         </mxCell>
