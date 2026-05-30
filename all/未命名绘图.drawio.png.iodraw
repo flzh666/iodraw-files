@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-1" value="截图归档模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="1125" width="294" height="321" as="geometry" />
+          <mxGeometry x="1322" y="965" width="294" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="954" y="580" width="484" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-3" value="显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="903" width="587" height="321" as="geometry" />
+          <mxGeometry x="25" y="1078" width="587" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-4" value="串口接收原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="398" y="489" width="188" height="49" as="geometry" />
@@ -166,6 +166,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="387" y="1224" />
+              <mxPoint x="563" y="1327" />
               <mxPoint x="1490" y="1249" />
             </Array>
           </mxGeometry>
