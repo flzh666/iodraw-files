@@ -17,7 +17,7 @@
           <mxGeometry x="218.5" y="571" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="196" y="774" width="152" height="49" as="geometry" />
+          <mxGeometry x="212.5" y="691" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-50" value="串口发送" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-43" target="6FWxDdq0bSZ_t7mZj0ah-44">
           <mxGeometry relative="1" as="geometry" />
@@ -30,7 +30,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-45" target="6FWxDdq0bSZ_t7mZj0ah-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-53" value="环境参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.607;entryY=-0.016;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-46" target="6FWxDdq0bSZ_t7mZj0ah-47">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-53" value="环境参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-46" target="6FWxDdq0bSZ_t7mZj0ah-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-54" value="反馈数据" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.071;entryY=0.982;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-47" target="6FWxDdq0bSZ_t7mZj0ah-44">
