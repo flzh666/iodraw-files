@@ -48,8 +48,10 @@
             <mxPoint x="-98" y="-103" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=Infinity;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-49" target="6FWxDdq0bSZ_t7mZj0ah-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6FWxDdq0bSZ_t7mZj0ah-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="833" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="883" y="806.5" width="164" height="49" as="geometry" />
