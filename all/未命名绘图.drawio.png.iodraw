@@ -11,7 +11,7 @@
           <mxGeometry x="300" y="520" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-67" value="进入主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="302" y="620" width="130" height="130" as="geometry" />
+          <mxGeometry x="300" y="620" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-68" value="读取 SHT30 传感器数据&#xa;获取当前温湿度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174" y="780" width="230" height="70" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-80" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6FWxDdq0bSZ_t7mZj0ah-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="680" />
+              <mxPoint x="289" y="684" />
             </Array>
             <mxPoint x="302" y="683.5" as="sourcePoint" />
             <mxPoint x="286" y="798" as="targetPoint" />
