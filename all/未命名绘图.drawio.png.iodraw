@@ -8,7 +8,7 @@
           <mxGeometry x="1345" y="1125" width="294" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="903" width="484" height="321" as="geometry" />
+          <mxGeometry x="954" y="580" width="484" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-3" value="显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="903" width="587" height="321" as="geometry" />
