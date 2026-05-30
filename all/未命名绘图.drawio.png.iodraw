@@ -17,7 +17,7 @@
           <mxGeometry x="1064" y="732" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="1041" width="152" height="49" as="geometry" />
+          <mxGeometry x="528" y="1083" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-49" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1134" y="848" as="geometry" />
@@ -35,11 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-54" value="反馈数据" style="curved=0;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.95;entryY=0.99;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-47" target="6FWxDdq0bSZ_t7mZj0ah-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="980" y="1020" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-58">
           <mxGeometry relative="1" as="geometry">
