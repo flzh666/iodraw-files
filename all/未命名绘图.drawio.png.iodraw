@@ -7,7 +7,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-65" value="系统上电" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="412" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-66" value="系统初始化&#xa;1. GPIO/中断配置&#xa;2. 串口初始化 Open Serial&#xa;3. OLED/SHT30 初始化&#xa;4. PID 参数加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-66" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="496" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-67" value="进入主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-66" target="6FWxDdq0bSZ_t7mZj0ah-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-67" target="6FWxDdq0bSZ_t7mZj0ah-68">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-67" target="6FWxDdq0bSZ_t7mZj0ah-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-68" target="6FWxDdq0bSZ_t7mZj0ah-69">
