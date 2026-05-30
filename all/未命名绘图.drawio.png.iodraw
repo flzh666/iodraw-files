@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-1" value="截图归档模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="814" y="1049" width="172" height="321" as="geometry" />
+          <mxGeometry x="658" y="1069" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="954" y="580" width="172" height="49" as="geometry" />
+          <mxGeometry x="425" y="936" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-3" value="显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="932" width="172" height="49" as="geometry" />
@@ -24,15 +24,6 @@
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-7" value="错误处理/丢弃" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="642" y="928" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-18" value="导出图像调用节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1396" y="1274" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-19" value="截图保存触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1416" y="1150" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-20" value="保存高清晰度图表图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1372" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-4" target="6FWxDdq0bSZ_t7mZj0ah-5">
           <mxGeometry relative="1" as="geometry">
@@ -65,18 +56,6 @@
               <mxPoint x="490" y="867" />
             </Array>
             <mxPoint x="490" y="928" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.55;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-19" target="6FWxDdq0bSZ_t7mZj0ah-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1510" y="1249" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-18" target="6FWxDdq0bSZ_t7mZj0ah-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
