@@ -44,7 +44,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-56" value="PID计算" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=-Infinity;entryX=-Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-48" target="6FWxDdq0bSZ_t7mZj0ah-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1" y="-105" relative="1" as="geometry">
+            <mxPoint x="-98" y="-103" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=Infinity;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-49" target="6FWxDdq0bSZ_t7mZj0ah-44">
           <mxGeometry relative="1" as="geometry" />
