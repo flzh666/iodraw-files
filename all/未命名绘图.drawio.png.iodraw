@@ -17,7 +17,7 @@
           <mxGeometry x="172" y="783" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-69" value="串口缓冲区&#xa;是否有新数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="199" y="914" width="178" height="178" as="geometry" />
+          <mxGeometry x="196" y="899" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-70" value="解析串口指令&#xa;更新目标温湿度设定值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63" y="1164" width="220" height="66" as="geometry" />
