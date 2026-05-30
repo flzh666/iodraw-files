@@ -14,7 +14,7 @@
           <mxGeometry x="442" y="790" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-46" value="恒温恒湿箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="732" width="140" height="49" as="geometry" />
+          <mxGeometry x="970.08" y="758" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="1036" width="152" height="49" as="geometry" />
@@ -34,11 +34,13 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-53" value="环境参数" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-46" target="6FWxDdq0bSZ_t7mZj0ah-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-54" value="反馈数据" style="curved=0;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.95;entryY=0.99;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-47" target="6FWxDdq0bSZ_t7mZj0ah-44">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-54" value="反馈数据" style="curved=0;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.95;entryY=0.99;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="1020" />
+              <mxPoint x="886.08" y="1046" />
             </Array>
+            <mxPoint x="423.998367346939" y="1110.9999999999998" as="sourcePoint" />
+            <mxPoint x="435.4881632653058" y="763" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-58">
