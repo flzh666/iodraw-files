@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-43" value="LabVIEW上位机&#xa;设定目标参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="237" y="815" width="169" height="66" as="geometry" />
+          <mxGeometry x="375" y="504" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-44" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="524" y="824" width="137" height="49" as="geometry" />
+          <mxGeometry x="398" y="688" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-45" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="782" y="732" width="164" height="49" as="geometry" />
