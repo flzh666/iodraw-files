@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="716" />
-              <mxPoint x="170" y="361" />
+              <mxPoint x="170" y="353" />
             </Array>
             <mxPoint x="170" y="716" as="sourcePoint" />
           </mxGeometry>
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="441" y="336" width="164" height="49" as="geometry" />
+          <mxGeometry x="428" y="328" width="164" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
