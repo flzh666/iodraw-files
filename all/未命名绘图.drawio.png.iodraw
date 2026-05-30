@@ -14,10 +14,10 @@
           <mxGeometry x="240" y="513" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-46" value="恒温恒湿箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="602" y="516" width="140" height="49" as="geometry" />
+          <mxGeometry x="357" y="656" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="357" y="778" width="152" height="49" as="geometry" />
+          <mxGeometry x="196" y="774" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-50" value="串口发送" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-43" target="6FWxDdq0bSZ_t7mZj0ah-44">
           <mxGeometry relative="1" as="geometry" />
