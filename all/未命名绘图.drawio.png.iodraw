@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kixRXVAnap17-b8DhN_n">
-    <mxGraphModel dx="1613" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="954" y="580" width="484" height="321" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-3" value="显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-33" y="983" width="172" height="49" as="geometry" />
+          <mxGeometry x="193" y="932" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-4" value="串口接收原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="398" y="489" width="188" height="49" as="geometry" />
@@ -24,18 +24,6 @@
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-7" value="错误处理/丢弃" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="642" y="928" width="164" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-14" value="数据流同步封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1027" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-15" value="获取系统时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="882" y="928" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-16" value="写入测量文件模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="987" y="1150" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-17" value="数据记录触发信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="1027" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-18" value="导出图像调用节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1396" y="1274" width="188" height="49" as="geometry" />
@@ -77,27 +65,6 @@
               <mxPoint x="490" y="867" />
             </Array>
             <mxPoint x="490" y="928" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-15" target="6FWxDdq0bSZ_t7mZj0ah-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="968" y="1002" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-14" target="6FWxDdq0bSZ_t7mZj0ah-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="966" y="1125" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-17" target="6FWxDdq0bSZ_t7mZj0ah-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1196" y="1125" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.55;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-19" target="6FWxDdq0bSZ_t7mZj0ah-18">
