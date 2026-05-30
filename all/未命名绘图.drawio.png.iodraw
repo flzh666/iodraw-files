@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-1" value="截图归档模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="614" y="1078" width="172" height="49" as="geometry" />
+          <mxGeometry x="190" y="987" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406.5" y="899" width="172" height="49" as="geometry" />
