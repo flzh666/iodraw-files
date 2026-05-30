@@ -1,90 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kixRXVAnap17-b8DhN_n">
-    <mxGraphModel dx="2280" dy="1204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-61" value="系统启动" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="588" y="1152" width="87" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-62" value="初始化硬件设备与串口通信" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="506" y="1236" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-63" value="读取温湿度数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1352" width="184" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-64" value="数据协议封装并上传" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="145" y="1468" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MOCJlimli8YiaQhCdN6_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MOCJlimli8YiaQhCdN6_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crwiBLhhYkW7GnEuG7B8-65" target="crwiBLhhYkW7GnEuG7B8-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-65" value="LabVIEW上位机接收解析" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1566" width="233" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-66" value="实时显示温湿度曲线" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="129" y="1662" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-67" value="同步写入Excel" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="386" y="1662" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-68" value="下发控制指令至STM32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="129" y="1766" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-69" value="STM32驱动执行模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="129" y="1868" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-70" value="当前值是否进入&#xa;设定容差范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="158" y="2001" width="178" height="178" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-71" value="维持稳定状态&#xa;持续监控与PID微调" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="2251" width="195" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-61" target="crwiBLhhYkW7GnEuG7B8-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-62" target="crwiBLhhYkW7GnEuG7B8-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-74" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-63" target="crwiBLhhYkW7GnEuG7B8-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="247" y="1385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-64" target="crwiBLhhYkW7GnEuG7B8-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-66" target="crwiBLhhYkW7GnEuG7B8-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-68" target="crwiBLhhYkW7GnEuG7B8-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-69" target="crwiBLhhYkW7GnEuG7B8-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-82" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-70" target="crwiBLhhYkW7GnEuG7B8-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="634" y="2090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-83" value="是" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-70" target="crwiBLhhYkW7GnEuG7B8-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="crwiBLhhYkW7GnEuG7B8-84" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.74;entryY=1;rounded=0;exitDx=0;exitDy=0;" parent="1" source="crwiBLhhYkW7GnEuG7B8-71" target="crwiBLhhYkW7GnEuG7B8-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="676" y="2284" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
