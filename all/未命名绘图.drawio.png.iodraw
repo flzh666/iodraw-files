@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-43" value="LabVIEW上位机&#xa;设定目标参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="375" y="504" width="169" height="66" as="geometry" />
+          <mxGeometry x="204" y="199" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-44" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="398" y="688" width="137" height="49" as="geometry" />
+          <mxGeometry x="227" y="383" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-45" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="442" y="790" width="164" height="49" as="geometry" />
+          <mxGeometry x="271" y="485" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-46" value="恒温恒湿箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="732" width="140" height="49" as="geometry" />
+          <mxGeometry x="602" y="516" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="528" y="1083" width="152" height="49" as="geometry" />
+          <mxGeometry x="357" y="778" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-49" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1134" y="848" as="geometry" />
@@ -39,11 +39,11 @@
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865" y="833" as="sourcePoint" />
+            <mxPoint x="694" y="528" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487" y="881.5" width="164" height="49" as="geometry" />
+          <mxGeometry x="316" y="576.5" width="164" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
