@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-65" value="系统上电" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="412" width="87" height="34" as="geometry" />
+          <mxGeometry x="324" y="436" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-66" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="299" y="496" width="140" height="49" as="geometry" />
+          <mxGeometry x="298" y="520" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-67" value="进入主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="304" y="619" width="129" height="129" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-82" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-83" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-71">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-83" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-70" target="6FWxDdq0bSZ_t7mZj0ah-72">
