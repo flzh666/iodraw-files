@@ -8,7 +8,7 @@
           <mxGeometry x="190" y="987" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="406.5" y="899" width="172" height="49" as="geometry" />
+          <mxGeometry x="420" y="984" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-3" target="6FWxDdq0bSZ_t7mZj0ah-1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-6" value="数据解析校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="686" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-7" value="错误处理/丢弃" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-7" value="错误处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="899" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-4" target="6FWxDdq0bSZ_t7mZj0ah-5">
