@@ -20,10 +20,10 @@
           <mxGeometry x="196" y="899" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-70" value="解析串口指令&#xa;更新目标温湿度设定值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="1164" width="220" height="66" as="geometry" />
+          <mxGeometry x="175" y="1164" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-71" value="保持原有&#xa;目标设定值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1164" width="220" height="66" as="geometry" />
+          <mxGeometry x="175" y="1164" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-72" value="计算误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="188" y="1269" width="200" height="55" as="geometry" />
