@@ -8,7 +8,7 @@
           <mxGeometry x="204" y="199" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-44" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="299" width="137" height="49" as="geometry" />
+          <mxGeometry x="220" y="300" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-45" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206.5" y="482" width="164" height="49" as="geometry" />
@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694" y="528" as="sourcePoint" />
+            <mxPoint x="694" y="529" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-63" value="控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FWxDdq0bSZ_t7mZj0ah-57">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="428" y="328" width="164" height="49" as="geometry" />
+          <mxGeometry x="427" y="300" width="164" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
