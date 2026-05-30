@@ -43,8 +43,9 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-55" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.3;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-56" value="PID计算" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=-Infinity;entryX=-Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-48" target="6FWxDdq0bSZ_t7mZj0ah-49">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-56" value="PID计算" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=-Infinity;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-48">
           <mxGeometry x="-1" y="-105" relative="1" as="geometry">
+            <mxPoint x="829" y="817" as="targetPoint" />
             <mxPoint x="-98" y="-103" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -54,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="883" y="806.5" width="164" height="49" as="geometry" />
+          <mxGeometry x="921" y="799" width="164" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
