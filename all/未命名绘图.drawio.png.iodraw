@@ -51,6 +51,9 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=Infinity;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-49" target="6FWxDdq0bSZ_t7mZj0ah-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-58" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="883" y="806.5" width="164" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
