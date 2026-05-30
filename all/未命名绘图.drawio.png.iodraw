@@ -8,7 +8,7 @@
           <mxGeometry x="191" y="899" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-2" value="数据存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="191" y="974" width="172" height="49" as="geometry" />
+          <mxGeometry x="406" y="899" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-4" value="串口接收原始数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="398" y="489" width="188" height="49" as="geometry" />
