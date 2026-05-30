@@ -8,13 +8,13 @@
           <mxGeometry x="204" y="199" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-44" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="336" width="137" height="49" as="geometry" />
+          <mxGeometry x="220" y="328" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-45" value="加热器/加湿器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="206.5" y="451" width="164" height="49" as="geometry" />
+          <mxGeometry x="206.5" y="449" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-46" value="恒温恒湿箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="218.5" y="571" width="140" height="49" as="geometry" />
+          <mxGeometry x="218.5" y="570" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-47" value="SHT30传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="691" width="152" height="49" as="geometry" />
