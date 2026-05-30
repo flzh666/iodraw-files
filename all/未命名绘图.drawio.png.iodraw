@@ -61,10 +61,14 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-68" target="6FWxDdq0bSZ_t7mZj0ah-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-82" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-70">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-82" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="988" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-83" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-71">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-83" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-69" target="6FWxDdq0bSZ_t7mZj0ah-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-70" target="6FWxDdq0bSZ_t7mZj0ah-72">
