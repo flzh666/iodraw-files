@@ -31,7 +31,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-73" value="执行 PID 算法计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="1400" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-74" value="执行机构动作&#xa;加热/制冷/加湿/除湿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-74" value="执行机构动作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="185" y="1510" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-75" value="更新 OLED 动态显示&#xa;显示当前值与目标值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
