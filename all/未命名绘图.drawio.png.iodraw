@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-65" value="系统上电" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="321" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="325" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-66" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="520" width="140" height="50" as="geometry" />
+          <mxGeometry x="305" y="520" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-67" value="进入主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="620" width="130" height="130" as="geometry" />
@@ -43,8 +43,10 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-77" value="系统延时 Delay&#xa;维持固定的控制周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="1900" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-65" target="6FWxDdq0bSZ_t7mZj0ah-66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-66" target="6FWxDdq0bSZ_t7mZj0ah-67">
           <mxGeometry relative="1" as="geometry" />
