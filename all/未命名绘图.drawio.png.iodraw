@@ -25,10 +25,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-71" value="保持原有&#xa;目标设定值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="1164" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-72" target="6FWxDdq0bSZ_t7mZj0ah-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-72" value="计算误差&#xa;Error = Target - Current" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-72" value="计算误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174" y="1280" width="229" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-73" value="执行 PID 算法计算&#xa;输出 PWM/控制量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
