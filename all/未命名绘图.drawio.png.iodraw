@@ -37,12 +37,7 @@
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-54" value="反馈数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.95;entryY=0.99;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-47" target="6FWxDdq0bSZ_t7mZj0ah-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-55" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.3;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="864" y="831" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6FWxDdq0bSZ_t7mZj0ah-58">
+        <mxCell id="6FWxDdq0bSZ_t7mZj0ah-57" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FWxDdq0bSZ_t7mZj0ah-44" target="6FWxDdq0bSZ_t7mZj0ah-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="865" y="833" as="sourcePoint" />
           </mxGeometry>
