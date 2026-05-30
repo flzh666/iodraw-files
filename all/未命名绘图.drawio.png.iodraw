@@ -14,7 +14,7 @@
           <mxGeometry x="310" y="620" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-68" value="读取 SHT30 传感器数据&#xa;获取当前温湿度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="780" width="230" height="70" as="geometry" />
+          <mxGeometry x="175" y="780" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6FWxDdq0bSZ_t7mZj0ah-69" value="串口缓冲区&#xa;是否有新数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="900" width="180" height="180" as="geometry" />
